@@ -53,7 +53,7 @@ double eps = 1e-12;
 
 
 void solve(){
-    
+   int i = 1; 
 }
 int main()
 {
